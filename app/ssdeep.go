@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/glaslos/ssdeep"
+	"github.com/LordNoteworthy/ssdeep"
 	"github.com/spf13/pflag"
 	"github.com/spf13/viper"
 )

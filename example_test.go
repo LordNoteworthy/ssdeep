@@ -1,7 +1,7 @@
 package ssdeep_test
 
 import (
-	"github.com/glaslos/ssdeep"
+	"github.com/LordNoteworthy/ssdeep"
 	"math/rand"
 	"fmt"
 	"os"
